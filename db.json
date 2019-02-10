@@ -1,8 +1,12 @@
 {
   "destination": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
+    { "id": 1, 
+      "name": "paris",
+      "description": "blah"
+      "logitude": 30.403
+      "lattitude": 293.432
+    }
+
   ]
 
 }
