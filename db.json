@@ -3,8 +3,8 @@
     { "id": 1, 
       "name": "paris",
       "description": "blah",
-      "logitude": 30.403,
-      "lattitude": 293.432
+      "logitude": "30.403",
+      "lattitude": "293.432"
     }
 
   ]
