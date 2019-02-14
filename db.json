@@ -3,7 +3,7 @@
     { "id": 1, 
       "name": "paris",
       "description": "blah",
-      "logitude": 30.403,
+      "logitude": "30.403",
       "latitude": "293.432"
     }
 
